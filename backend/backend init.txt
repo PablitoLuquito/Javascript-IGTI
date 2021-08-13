@@ -1,0 +1,3 @@
+cd Documents\Bootcamps\IGTI\React\Projetos\Exercícios\Javascript\backend
+
+npm start
